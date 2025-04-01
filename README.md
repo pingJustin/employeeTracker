@@ -16,7 +16,7 @@ Feel free to view my work here.
                              
 ### Link to Walkthrough Video
 
-https://github.com/pingJustin/employeeTracker/blob/main/SampleUsage.mp4
+https://drive.google.com/file/d/1pmz8EatIi-pVj7POFRXRcrQGlM7ReAlC/view?usp=drive_link
 
 ## Contact Information
 
@@ -24,7 +24,7 @@ Github: [pingjustin](https://github.com/pingJustin)
 
 Email: pingjustin@gmail.com
 
-# 10 SQL: Employee Tracker
+# Challenge Assignment 10 SQL: Employee Tracker
 
 ## Your Task
 
