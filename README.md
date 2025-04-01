@@ -16,7 +16,7 @@ Feel free to view my work here.
                              
 ### Link to Walkthrough Video
 
-https://drive.google.com/file/d/1CnzrEhxu6FL5V5pbcJU-ZCzck4Omfc5t/view
+https://github.com/pingJustin/employeeTracker/blob/main/SampleUsage.mp4
 
 ## Contact Information
 
